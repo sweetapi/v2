@@ -2,7 +2,7 @@
   "api": {
     "yaoi": {
       "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi<number>.png",
-      "min": "1"
+      "min": "1",
       "max": "130"
     }
   }
