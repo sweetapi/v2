@@ -10,12 +10,12 @@
       "url": "url3"
     }
   ],
-  "api": [
+  "api": {
     "yaoi": {
       "url": "yaoiurl",
       "max": "1"
     }
-  ],
+  },
   "max": {
     "yaoi": "1"
   }
