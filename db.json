@@ -1,0 +1,21 @@
+{
+  "yaoi": [
+    {
+      "id": 1,
+      "url": "test"
+    },
+    {
+      "id": 2,
+      "url": "test2"
+    }
+  ],
+  "yuri": [
+    {
+      "id": 1,
+      "url": "yuri1"
+    },
+    {
+      "id": 2,
+      "url": "yuri2"
+    }
+}
