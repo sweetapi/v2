@@ -10,10 +10,14 @@
       "url": "url3"
     }
   ],
-  "api": [
+  "api": {
     "yaoi": {
       "url": "https://my-json-server.typicode.com/sweetapi/v2/yaoi",
       "max": "27"
+    },
+    "test": {
+      "url": "brak",
+      "max": "69"
     }
-  ]
+  }
 }
