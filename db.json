@@ -4,20 +4,91 @@
       "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi1.png"
     },
     {
-      "url": "test2"
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi2.png"
     },
     {
-      "url": "url3"
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi3.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi4.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi5.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi6.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi7.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi8.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi9.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi10.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi11.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi12.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi13.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi14.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi15.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi16.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi17.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi18.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi19.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi20.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi21.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi22.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi23.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi24.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi25.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi26.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi27.png"
+    },
+    {
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi28.png"
     }
   ],
   "api": {
     "yaoi": {
       "url": "https://my-json-server.typicode.com/sweetapi/v2/yaoi",
       "max": "27"
-    },
-    "test": {
-      "url": "brak",
-      "max": "69"
     }
   }
 }
