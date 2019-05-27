@@ -1,7 +1,7 @@
 {
   "yaoi": [
     {
-      "url": "test"
+      "url": "http://so787.sohost.pl/sweetapi/yaoi/yaoi1.png"
     },
     {
       "url": "test2"
@@ -12,11 +12,8 @@
   ],
   "api": {
     "yaoi": {
-      "url": "yaoiurl",
-      "max": "1"
+      "url": "https://my-json-server.typicode.com/sweetapi/v2/yaoi",
+      "max": "27"
     }
   },
-  "max": {
-    "yaoi": "1"
-  }
 }
